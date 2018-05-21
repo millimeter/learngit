@@ -1,1 +1,1 @@
-git is a system
+git is a file system
